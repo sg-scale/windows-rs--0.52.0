@@ -14,4 +14,4 @@ features = [
 
 [dev-dependencies]
 debugger_test = "0.1.0"
-debugger_test_parser = "0.1.0"
+debugger_test_parser = "0.2.0"
